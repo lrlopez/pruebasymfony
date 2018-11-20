@@ -1,4 +1,4 @@
-.checkout
-=========
+Prueba Symfony
+==============
 
-A Symfony project created on November 20, 2018, 8:34 am.
+Esto es un proyecto de prueba que vamos a borrar enseguida
